@@ -1,0 +1,14 @@
+package multilevel;
+
+public class Father1 {
+	
+	public void land()
+	{
+		System.out.println("Fathers land");
+	}
+	
+	public void bag() {
+		System.out.println("Fathers bag");
+	}
+
+}
