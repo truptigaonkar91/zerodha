@@ -1,0 +1,14 @@
+package multilevel;
+
+public class Grandfather
+{
+
+public void House()
+{
+System.out.println("Grandfathers house");
+}
+
+	public void Car() {
+		System.out.println("Grandfathers Car");
+	}
+}
