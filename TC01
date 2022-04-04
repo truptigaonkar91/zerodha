@@ -10,5 +10,6 @@ System.out.println("Grandfathers house");
 
 	public void Car() {
 		System.out.println("Grandfathers Car");
+		System.out.println("Fathers Car");
 	}
 }
