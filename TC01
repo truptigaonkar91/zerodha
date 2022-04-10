@@ -12,4 +12,17 @@ System.out.println("Grandfathers house");
 		System.out.println("Grandfathers Car");
 		System.out.println("Fathers Car");
 	}
+	if(Username=="Mahi")
+	{
+	System.out.println("enter password");
+	}
+	if(Password=="12345")
+	{
+	System.out.println("Login successfull");
+	}
+	else
+	{
+	System.out.println("invalid username & password");
+	}
+	}
 }
