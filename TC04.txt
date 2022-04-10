@@ -1,0 +1,21 @@
+public class C {
+	
+
+	static float num = 450.5f;
+
+	public void X1() {
+		
+		System.out.println(C.num);
+	}
+	
+	public static void X2()
+	{
+		System.out.println(num);
+	}
+
+	public static void main(String[] args) {
+		C M1 = new C();
+		M1.X1();
+		X2();
+	}
+	}
